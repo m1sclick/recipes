@@ -1,0 +1,8 @@
+Ingredients:
+- Ice-cream
+
+Directions:
+  1. Open refrigerator.
+  2. Pull ice-cream.
+  3. Close refrigerator.
+  4. Eat ice-cream.
